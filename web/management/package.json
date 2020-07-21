@@ -19,7 +19,7 @@
     "js-beautify": "^1.9.1",
     "jsonlint-mod": "^1.7.4",
     "libphonenumber-js": "^1.7.15",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "placeholder-loading": "^0.2.1",
     "popper.js": "^1.14.6",
